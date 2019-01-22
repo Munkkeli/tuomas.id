@@ -1,0 +1,25 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "clean-css": "^4.2.1",
+    "jstransformer-jade": "^0.1.2",
+    "metalsmith": "^2.3.0",
+    "metalsmith-clean-css": "^6.0.0",
+    "metalsmith-html-minifier": "^3.0.0",
+    "metalsmith-ignore": "^1.0.0",
+    "metalsmith-inline-css": "^1.0.6",
+    "metalsmith-layouts": "^2.3.0",
+    "metalsmith-less": "^2.0.0",
+    "metalsmith-markdown": "^1.1.0",
+    "metalsmith-markdown-remarkable": "^0.1.2"
+  }
+}

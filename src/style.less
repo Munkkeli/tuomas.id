@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css?family=Crete+Round|Staatliches");
+
+@color-header: #202225;
+@color-text: #4d5357;
+@color-accent: #ec556f;
+@color-detail: #e9ebec;
+@color-white: #f8f9f9;
+
+* {
+  font-family: "Crete Round", serif;
+  font-weight: normal;
+  color: @color-text;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: @color-white;
+}
+
+article {
+  margin: 64px auto 128px auto;
+  width: 600px;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5 {
+    color: @color-header;
+  }
+
+  h1 {
+    font-family: "Staatliches", cursive;
+    font-size: 5em;
+    text-align: center;
+    text-shadow: -4px 4px 0px @color-accent;
+
+    small {
+      display: block;
+      font-size: 0.25em;
+      text-shadow: none;
+    }
+  }
+
+  em,
+  a {
+    color: @color-accent;
+  }
+
+  hr {
+    margin: 42px auto;
+    width: 60%;
+    height: 2px;
+    border: none;
+    border-radius: 2px;
+    background-color: @color-detail;
+  }
+
+  > ul {
+    padding: 0;
+    list-style-type: none;
+
+    > li {
+      color: @color-accent;
+    }
+
+    ul {
+      margin: 0 0 16px 0;
+      list-style-type: circle;
+      color: @color-text;
+    }
+  }
+
+  > ol {
+    list-style-type: circle;
+  }
+}
