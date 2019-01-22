@@ -3,7 +3,7 @@
 [build]
   base = "/"
   publish = "/build/"
-  command = "npm run build'"
+  command = "npm run build"
 
   [headers.values]
     X-Frame-Options = "DENY"
