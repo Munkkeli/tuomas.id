@@ -10,8 +10,7 @@ const ignore = require('metalsmith-ignore');
 Metalsmith(__dirname) // __dirname defined by node.js:
   // name of current working directory
   .metadata({
-    sitename: 'Tuomas Pöyry — Web Designer & Developer',
-    siteurl: 'https://tuomas.poyry.me/',
+    title: 'Tuomas Pöyry — Web Designer & Developer',
     description:
       'A passionate Web Designer & Developer working in the industry since 2014.'
   })

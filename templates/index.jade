@@ -1,7 +1,9 @@
 html(lang="en")
   head
-    title Tuomas Pöyry
-    // link(rel='stylesheet', href='../style.less', inline)
+    title= title
+    meta(charset="utf-8")
+    meta(name="author", content="Tuomas Pöyry")
+    meta(name="description", content= description)
     <link rel="stylesheet" href="style.css" inline>
   body
     article!= contents
