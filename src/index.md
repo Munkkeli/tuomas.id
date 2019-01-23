@@ -6,7 +6,9 @@ layout: index.jade
 
 ### About Me
 
-Working in the industry since 2014. Shipped and worked on projects for _Finnkino_, _Telia_, _R-Kioski_, _Tiketti_ & _Uponor_. Enthusiastic about JavaScript development and it's future. Constantly testing new technologies, like _TypeScript_, _GraphQL_ & _Serverless_. Won gold in _Skills Finland 2015_ at web development. Performed the mandatory military service as a programmer (Lance Corporal) for the _Finnish Defence Forces_. Also making some games in the free time.
+Working in the industry as a full stack developer since 2014. Shipped and worked on projects for _Finnkino_, _Telia_, _R-Kioski_, _Tiketti_ & _Uponor_. Enthusiastic about JavaScript development and it's future. Constantly testing new technologies, like _TypeScript_, _GraphQL_ & _Serverless_. Won gold in _Skills Finland 2015_ at web development. Performed the mandatory military service as a programmer (Lance Corporal) for the _Finnish Defence Forces_. Also making some games in the free time.
+
+Located in Espoo, Finland 🇫🇮. Fluent in English & Finnish.
 
 Currently studying a _Bachelor's Degree in Information Technology_, while also working as a _Software Engineer_.
 
@@ -16,12 +18,17 @@ Currently studying a _Bachelor's Degree in Information Technology_, while also w
 
 - HTML, CSS, SVG
   - LESS, SASS, Styled Components
-  - Jade / Pug, Handlebars
-- JavaScript
+  - Jade / Pug, Handlebars, EJS, mdx
+- Font End (JavsScript)
   - ES6
   - TypeScript
   - React, Redux, Vue
   - Babel, Webpack, Parcel, Gulp, Gatsby
+- Back End (Node)
+  - Express, Hapi, Koa
+  - Socket.io
+  - Passport, JWT
+  - Mongoose, pq, TypeORM, Knex
 - SQL
   - MySQL
   - Microsoft SQL
