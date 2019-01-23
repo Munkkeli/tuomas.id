@@ -2,7 +2,7 @@
 layout: index.jade
 ---
 
-<h1>Tuomas Pöyry <small>Web Designer & Developer</small></h1>
+<h1>Tuomas Pöyry<small>Web Designer & Developer</small></h1>
 
 ### About Me
 
@@ -53,5 +53,12 @@ You can send me a message on any of the social platforms, or contact me directly
 
 1. [GitHub](https://github.com/Munkkeli)
 2. [LinkedIn](https://www.linkedin.com/in/munkkeli)
-3. [Twitter](https://twitter.com/Munkkeli)
-4. [Treehouse](https://teamtreehouse.com/munkkeli)
+3. [Treehouse](https://teamtreehouse.com/munkkeli)
+
+---
+
+### This website
+
+This site is written in _Markdown_, built by [Metalsmith](https://metalsmith.io/), and continuously integrated & served by [Netlify](https://www.netlify.com/). The source can be found on [GitHub](https://github.com/Munkkeli/tuomas.poyry.me).
+
+<small>© Tuomas Pöyry, 2018</small>
