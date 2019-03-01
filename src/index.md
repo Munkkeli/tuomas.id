@@ -19,7 +19,7 @@ Currently studying a _Bachelor's Degree in Information Technology_, while also w
 - HTML, CSS, SVG
   - LESS, SASS, Styled Components
   - Jade / Pug, Handlebars, EJS, mdx
-- Font End (JavsScript)
+- Front End (JavsScript)
   - ES6
   - TypeScript
   - React, Redux, Vue
