@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Crete+Round|Staatliches");
+@import url('https://fonts.googleapis.com/css?family=Crete+Round|Staatliches');
 
 @color-header: #202225;
 @color-text: #4d5357;
@@ -7,7 +7,7 @@
 @color-white: #f8f9f9;
 
 * {
-  font-family: "Crete Round", serif;
+  font-family: 'Crete Round', serif;
   font-weight: normal;
   color: @color-text;
 }
@@ -32,7 +32,7 @@ article {
   }
 
   h1 {
-    font-family: "Staatliches", cursive;
+    font-family: 'Staatliches', cursive;
     font-size: 5em;
     text-align: center;
     text-shadow: -4px 4px 0px @color-accent;
@@ -75,5 +75,15 @@ article {
 
   > ol {
     list-style-type: circle;
+  }
+}
+
+@media only screen and (max-width: 712px) {
+  article {
+    margin-bottom: 48px;
+    padding: 0 48px;
+    width: 100%;
+
+    box-sizing: border-box;
   }
 }
