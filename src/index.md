@@ -22,7 +22,7 @@ Currently studying a _Bachelor's Degree in Information Technology_, while also w
 - Front End (JavaScript)
   - ES6
   - TypeScript
-  - React, Redux, Vue
+  - React (inc. FC, Context & Hooks), Redux, Vue
   - Babel, Webpack, Parcel, Gulp, Gatsby
 - Back End (Node)
   - Express, Hapi, Koa
@@ -32,7 +32,7 @@ Currently studying a _Bachelor's Degree in Information Technology_, while also w
 - SQL
   - MySQL
   - Microsoft SQL
-  - Postgres
+  - PostgreSQL
 - NoSQL
   - MongoDB, DocumentDB
   - Azure Storage
@@ -49,7 +49,7 @@ Currently studying a _Bachelor's Degree in Information Technology_, while also w
 
 ### Contact me
 
-You can send me a message on any of the social platforms, or contact me directly by sending an email to _tuomas(at)munkkeli(dot)io_
+You can send me a message on any of the social platforms, or contact me directly by sending an email to _me(at)tuomas(dot)id_
 
 1. [GitHub](https://github.com/Munkkeli)
 2. [LinkedIn](https://www.linkedin.com/in/munkkeli)
@@ -59,6 +59,6 @@ You can send me a message on any of the social platforms, or contact me directly
 
 ### This website
 
-This site is written in _Markdown_, built by [Metalsmith](https://metalsmith.io/), and continuously integrated & served by [Netlify](https://www.netlify.com/). The source can be found on [GitHub](https://github.com/Munkkeli/tuomas.poyry.me).
+This site is written in _Markdown_, built by [Metalsmith](https://metalsmith.io/), and continuously integrated & served by [Netlify](https://www.netlify.com/). The source can be found on [GitHub](https://github.com/Munkkeli/tuomas.id).
 
-<small>© Tuomas Pöyry, 2018</small>
+<small>© Tuomas Pöyry, 2019</small>
