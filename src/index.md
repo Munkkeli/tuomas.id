@@ -17,7 +17,7 @@ Currently studying a _Bachelor's Degree in Information Technology_, while also w
 ### What I'm good at
 
 - HTML, CSS, SVG
-  - LESS, SASS, Styled Components
+  - LESS, SASS, Styled Components, Tailwind
   - Jade / Pug, Handlebars, EJS, mdx
 - Front End (JavaScript)
   - ES6
@@ -61,4 +61,4 @@ You can send me a message on any of the social platforms, or contact me directly
 
 This site is written in _Markdown_, built by [Metalsmith](https://metalsmith.io/), and continuously integrated & served by [Netlify](https://www.netlify.com/). The source can be found on [GitHub](https://github.com/Munkkeli/tuomas.id).
 
-<small>© Tuomas Pöyry, 2019</small>
+<small>© Tuomas Pöyry, 2021</small>
