@@ -6,7 +6,7 @@ layout: index.jade
 
 ### About Me
 
-Working in the industry as a full stack developer since 2014. Shipped and worked on projects for _some of the largest companies in Finland_. Enthusiastic about JavaScript development and it's future. Constantly testing new technologies, like _TypeScript_, _GraphQL_ & _Serverless_. Won gold in _Skills Finland 2015_ at web development. Performed the mandatory military service as a programmer (Lance Corporal) for the _Finnish Defence Forces_. Also making some games in the free time.
+Working in the industry as a full stack developer since 2014. Shipped and worked on projects for _some of the largest companies in Finland_. Enthusiastic about JavaScript development and it's future. Constantly testing new technologies, like _TypeScript_, _GraphQL_ & _Serverless_. Won gold in _Skills Finland 2015_ at web development. Performed the mandatory military service as a programmer for the _Finnish Defence Forces_. Also making some games in the free time.
 
 Located in Espoo, Finland 🇫🇮. Fluent in English & Finnish.
 
@@ -53,7 +53,8 @@ You can send me a message on any of the social platforms, or contact me directly
 
 1. [GitHub](https://github.com/Munkkeli)
 2. [LinkedIn](https://www.linkedin.com/in/munkkeli)
-3. [Treehouse](https://teamtreehouse.com/munkkeli)
+3. [Diploi](https://diploi.com/)
+4. [Treehouse](https://teamtreehouse.com/munkkeli)
 
 ---
 
